@@ -19,7 +19,7 @@ for more information on how to install and use this software.
 
 This software is licensed under the [MIT license](./LICENSE).
 
-This repository will be updated overtime with new binaries and the Lumasonic Decoder SDK.
+This repository will be updated over time with new binaries and the Lumasonic Decoder SDK.
 
 ---
 
@@ -37,7 +37,7 @@ We're deeply proud of the technology we built and the community we fostered. The
 
 ### The Road Here
 
-Like many ventures, our journey has been marked by both extraordinary breakthroughs and significant challenges. The pandemic and subsequent supply chain difficulties tested our resilience, while the evolving market landscape presented obstacles we ultimately could not overcome. Despite encouraging signals from potential partners and the continued passion of our community, the financial realities have led us to this crossroads.
+Like many ventures, our journey has been marked by both extraordinary breakthroughs and significant challenges. The pandemic and subsequent supply chain difficulties tested our resilience, while the evolving market landscape presented obstacles we ultimately could not overcome. Despite encouraging signals from potential partners and the continued passion of our community, the financial realities led us to this crossroads.
 
 ### Looking Forward
 
