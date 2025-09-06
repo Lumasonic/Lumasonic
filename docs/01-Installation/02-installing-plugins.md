@@ -25,13 +25,23 @@ a visuals pass on your bounced track using Prism Studio tools._
 ---
 
 ### Installation
-Please download appropriate VSTs for desired OS from the [binaries](../../binaries) folder. We recommend downloading all
-plugins (PrismVST, PrismAudioBus, PrismMonitor, and PrismReference).
+Please download appropriate VSTs for desired OS from the [binaries](../../binaries) folder. Unzip somewhere to reveal all
+plugins (PrismVST, PrismAudioBus, PrismMonitor, and PrismReference), the follow the instructions for your OS below.
+
+Then follow the instructions laid out in the [Prism Studio](../02-Prism-Studio/01-introduction.md) docs to finish the configuration in your DAW.
+
+---
 
 #### Windows
 
 Copy VSTs to `C:\Program Files\Common Files\VST3` directory (this will require admin privileges). Feel free to create a
 subdirectory called `Lumasonic` and place the plugins there for organization.
+
+Download and unzip [PrismStudio_LicenseKeyFiles.zip](../../binaries/license/PrismStudio_LicenseKeyFiles.zip). Copy the
+`PrismProductManager` directory to `C:\Users\YOURUSERNAME\AppData\Roaming\PrismProductManager` (replacing YOURUSERNAME
+with the appropriate local user).
+
+---
 
 #### macOS
 
@@ -39,16 +49,10 @@ Copy VSTs to one of the standard system locations:
 - System-wide installation: `/Library/Audio/Plug-Ins/VST3/`
 - User-specific installation: `~/Library/Audio/Plug-Ins/VST3/`
 
-#### Linux
+Download and unzip [PrismStudio_LicenseKeyFiles.zip](../../binaries/license/PrismStudio_LicenseKeyFiles.zip). Copy the
+`PrismProductManager` directory to `~/Library/` (revealed in Finder via the menu: Finder -> Go (menu) -> Go to Folder -> ~/Library.
 
-Copy VST3 folders to your `/Home/.vst3` directory in Linux.<br>
-_**NOTE**: If you can't see this directory within Home, be sure to enable -->View->Show hidden files in the file explorer:_
+![PrismLicenseMacOS1 image-center image-full image-margin-v-24](img/macOS_Library_1.png)
+![PrismLicenseMacOS2 image-center image-full image-margin-v-24](img/macOS_Library_2.png)
+![PrismLicenseMacOS3 image-center image-full image-margin-v-24](img/macOS_Library_3.png)
 
-![LinuxVSTs image-center image-full image-margin-v-24](img/Linux_Plugins_1.png)
-
----
-
-### Getting Started
-
-Follow instructions laid out in the [Prism Studio](../02-Prism-Studio/01-introduction.md) docs to finish the configuration
-in your DAW.

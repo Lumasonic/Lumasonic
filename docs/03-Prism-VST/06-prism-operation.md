@@ -13,8 +13,6 @@ with a ramp that moves from **40Hz** to **0Hz** over the span of the composition
 
 ---
 
-###### page break
-
 ### MIDI CC Automation
 
 All exposed Prism VST Automation Parameters can of course be controlled live via MIDI CC mapping within your DAW. In the 

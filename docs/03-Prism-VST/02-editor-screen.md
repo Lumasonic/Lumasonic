@@ -7,8 +7,6 @@ The example below has the Light tab selected, revealing all the editable paramet
 
 ---
 
-###### page break
-
 ### Editor Basics
 
 There are a couple of basic concepts which drive Parameter editing within Prism:
@@ -37,8 +35,6 @@ which will be reflected here._
 
 ---
 
-###### page break
-
 ### Frequency Parameters
 
 The Frequency tab houses all editable Parameters for controlling the modulation frequency for Light, Sound and Vibration within Prism. The `Frequency` value can be set manually, or controlled in relation to the DAW tempo.
@@ -56,8 +52,6 @@ _**Note**: When a Sync Mode other than "Off" is selected, the upper table displa
 as well as the resulting `Sync Interval` and `Sync Frequency`._
 
 ---
-
-###### page break
 
 ### Light Parameters
 
@@ -94,8 +88,6 @@ between modes and retain the last color set when you were working in a particula
 
 ---
 
-###### page break
-
 ### Sound Parameters
 
 Brainwave Entrainment sessions that include audio stimulus will modulate an audio tone at a desired entrainment frequency.
@@ -130,8 +122,6 @@ The Modulation Depth is replaced with Stereo Spread in this mode, and the Modula
 
 ---
 
-###### page break
-
 ### Vibration Parameters
 
 Vibration can be used as an additional somatic entrainment source, and is intended to be used with transducers/subwoofers.
@@ -146,8 +136,6 @@ The Vibration tab houses all editable Parameters related to the vibration channe
 * `Stereo Phase` Drives the Left/Right stereo phase separation (0-360 degrees).
 
 ---
-
-###### page break
 
 ### Aux Input Parameters
 

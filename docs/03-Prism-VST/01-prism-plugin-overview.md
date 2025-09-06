@@ -14,8 +14,6 @@ We hope you enjoying working with Prism as much as we do!
 
 ---
 
-###### page break
-
 ### Features
 
 * Light, sound, & vibration creation tool
@@ -51,8 +49,6 @@ the light signals using the selected encoding technology (Lumasonic, AudioStrobe
 
 ---
 
-###### page break
-
 ### Glossary
 
 * `Entrainment Frequency / Beat Fequency` The frequency at which all signals are modulated to achieve Brainwave Entrainment.
@@ -64,7 +60,7 @@ the light signals using the selected encoding technology (Lumasonic, AudioStrobe
 * `Automation Parameter / Automation Envelope` Refers to the control of audio plug-in parameters over time by manually editing 
 values within a DAW's project timeline.
 
-###### page break
+---
 
 ### Interface
 

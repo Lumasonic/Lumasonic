@@ -18,8 +18,6 @@ The Light encoding can be configured for Lumasonic (_default_), SpectraStrobe, A
 
 ---
 
-###### page break
-
 ### Output Routing Settings
 
 The Output Routing section allows for configuring each signal source from Prism to be routed to a separate (or shared) output bus.
@@ -39,8 +37,6 @@ output buses to their own audio/mixer track for fine-grained mixing control.
 * `Aux. Input` Audio bus routing for the Aux. Input signal.
 
 ---
-
-###### page break
 
 ### General Settings
 

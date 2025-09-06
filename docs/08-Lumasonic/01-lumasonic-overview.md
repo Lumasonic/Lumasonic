@@ -12,6 +12,11 @@ the audio signal, which could be used to drive any other aspect of a multisensor
 The codec is extremely lightweight and embeddable, and intended to enable a growing ecosystem of multisensory and 
 neural entrainment hardware.
 
+Below is an example use case for hardware designed to deliver Lumasonic experiences. We may in the future
+release the CAD files and reference design for the lighting controller (or at least some basic guidance for using the 
+sACN functionality within [PrismVST](../03-Prism-VST/01-prism-plugin-overview.md) and [PrismMonitor](../05-Prism-Monitor/01-prism-monitor-overview.md) 
+with off-the-shelf hardware).
+
 ---
 
 ### Hardware
