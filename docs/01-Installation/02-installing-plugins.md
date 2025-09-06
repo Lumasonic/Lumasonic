@@ -38,7 +38,7 @@ Copy VSTs to `C:\Program Files\Common Files\VST3` directory (this will require a
 subdirectory called `Lumasonic` and place the plugins there for organization.
 
 Download and unzip [PrismStudio_LicenseKeyFiles.zip](../../binaries/license/PrismStudio_LicenseKeyFiles.zip). Copy the
-`PrismProductManager` directory to `C:\Users\YOURUSERNAME\AppData\Roaming\PrismProductManager` (replacing YOURUSERNAME
+`PrismProductManager` folder to your `C:\Users\YOURUSERNAME\AppData\Roaming` directory (replacing YOURUSERNAME
 with the appropriate local user).
 
 ---
@@ -50,7 +50,7 @@ Copy VSTs to one of the standard system locations:
 - User-specific installation: `~/Library/Audio/Plug-Ins/VST3/`
 
 Download and unzip [PrismStudio_LicenseKeyFiles.zip](../../binaries/license/PrismStudio_LicenseKeyFiles.zip). Copy the
-`PrismProductManager` directory to `~/Library/` (revealed in Finder via the menu: Finder -> Go (menu) -> Go to Folder -> ~/Library.
+`PrismProductManager` folder to your `~/Library/` directory (revealed via Finder -> Go (menu) -> Go to Folder -> ~/Library.
 
 ![PrismLicenseMacOS1 image-center image-full image-margin-v-24](img/macOS_Library_1.png)
 ![PrismLicenseMacOS2 image-center image-full image-margin-v-24](img/macOS_Library_2.png)
