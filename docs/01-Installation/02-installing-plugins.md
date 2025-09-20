@@ -25,7 +25,8 @@ a visuals pass on your bounced track using Prism Studio tools._
 ---
 
 ### Installation
-Please download the appropriate `PrismStudioFinalSetup` installer for your desired OS from the [binaries](../../binaries) folder.
+Please download the Prism Studio installer for your operating system: [Windows](../../binaries/win/PrismStudioFinalSetup.exe)
+or [macOS](../../binaries/macOS/PrismStudioFinalSetup.pkg).
 
 Run the installer to install all Prism Studio plug-ins to the standard VST3 location for your OS (this will include `Prism`, `Prism Audio Bus`,
 `Prism Monitor`, and `Prism Reference`).
