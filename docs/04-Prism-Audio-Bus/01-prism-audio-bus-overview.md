@@ -19,16 +19,15 @@ used by the selected codec, including a target level threshold and live threshol
 
 The interface is composed of the following elements:
 
-![PrismAudioBusInterface image-center image-full image-margin-v-24](img/prism-audio-bus-overview.png)
+![PrismAudioBusInterface image-center image-full image-margin-v-24](img/prism-audio-bus-overview.png) 
 
-1. `About Screen` Displays info about Prism Monitor and **Cymatic Somatics Inc**.
+1. `About Screen` Displays info about the Prism Audio Bus version.
 2. `Monitoring Screen` Displays the current input and output for Prism Audio Bus.
-3. `Licensing Screen` Displays the licensing information.
-4. `Bypass Filter` Disables the filter and displays the resulting unfiltered output.
+3. `Bypass Filter` Disables the filter and displays the resulting unfiltered output.
    ![PrismMonitorPreviewWindow image-center image-full image-margin-v-24](img/prism-audio-bus-post-filter-bypass.png) 
-5. `Display` Enables Post-Filter and Pre-Filter display selection, with Pre-Filter revealing the original signal (whether or not Bypass Filter is selected):
+4. `Display` Enables Post-Filter and Pre-Filter display selection, with Pre-Filter revealing the original signal (whether or not Bypass Filter is selected):
    ![PrismMonitorAudioStrobe image-center image-full image-margin-v-24](img/prism-audio-bus-pre-filter.png) 
-6. `Audio Meters` Displays realtime signal for resulting output, with axis values for the Lumasonic Reference, Red, Green, and Blue frequencies. The different frequencies of SpectraStrobe and AudioStrobe signals can be inferred as well, though the axis values do not change.
+5. `Audio Meters` Displays realtime signal for resulting output, with axis values for the Lumasonic Reference, Red, Green, and Blue frequencies. The different frequencies of SpectraStrobe and AudioStrobe signals can be inferred as well, though the axis values do not change.
 
 ---
 

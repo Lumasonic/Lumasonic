@@ -1,10 +1,10 @@
 ### Introduction
-While previous Prism Studio versions relied on Prism Product Manager for plugin installation and license activation,
-this is now a manual process for the free plugins, with the installation steps outlined in the 
-[Installing Plugins](02-installing-plugins.md) docs.
-
 If you have ever installed a Prism Studio product on Windows or macOS before, you will need to first go through the steps below
 to install and run Prism Cleaner.
+
+While previous Prism Studio versions relied on Prism Product Manager for plugin installation and license activation,
+there are now simple installers for the free plugins, with the installation steps outlined in the
+[Installing Plugins](02-installing-plugins.md) docs.
 
 ---
 
@@ -44,6 +44,7 @@ any Prism Studio tools are completely cleared.
 
 For Windows, find Prism Cleaner in the Start menu (either by searching by name or looking through `All apps`) and 
 run it.
+
 ![PrismCleanerWin image-center image-full image-margin-v-24](img/Prism_Cleaner_win_1.png)
 
 The dialog will walk you through the process. Simply close the window if you want to cancel at any point.

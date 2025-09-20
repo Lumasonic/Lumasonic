@@ -12,12 +12,11 @@ The interface is composed of the following elements:
 
 ![PrismReferenceInterface image-center image-full image-margin-v-24](img/prism-reference-overview.png)
 
-1. `About Screen` Displays info about Prism Reference and **Cymatic Somatics Inc**.
+1. `About Screen` Displays info about the Prism Reference version.
 2. `Encoding Screen` Displays the Reference Tone encoding settings.
-3. `Licensing Screen` Displays the licensing information.
-4. `Encoding Mode` Controls the output encoding: `Disabled`, `Lumasonic`, or `SpectraStrobe`.
-5. `Reference Gain` dB Output Level for the Lumasonic or SpectraStrobe Reference Tone.
-6. `Audio Meters` Displays realtime audio meters for resulting dB of Reference Tone and Output Mix signals.
+3. `Encoding Mode` Controls the output encoding: `Disabled`, `Lumasonic`, or `SpectraStrobe`.
+4. `Reference Gain` dB Output Level for the Lumasonic or SpectraStrobe Reference Tone.
+5. `Audio Meters` Displays realtime audio meters for resulting dB of Reference Tone and Output Mix signals.
 
 ---
 

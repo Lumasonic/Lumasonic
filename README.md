@@ -7,7 +7,7 @@ the future, the source for the tools will also be released in an additional repo
 
 Prism Studio and the Lumasonic codec are used to encode and decode visual control signals into 
 audio signals. Prism Studio also supports encoding of [AudioStrobe](https://audiostrobe.com/)
-and [SpectraStrobe](./docs/09-SpectraStrobe/01-spectrastrobe-introduction.md) for
+and [SpectraStrobe](docs/08-SpectraStrobe/01-spectrastrobe-introduction.md) for
 wider compatibility with existing hardware devices such as the [MindPlace Kasina](https://mindplace.com/).
 
 Prism Studio consists of cross-platform VST3 audio plug-ins and the (soon to be added)

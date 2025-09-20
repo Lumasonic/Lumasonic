@@ -6,7 +6,7 @@ Please get in touch if you are interested in licensing our roomscale solution.
 
 Otherwise, the most common publishing pathway will be SpectraStrobe, for the Mindplace Kasina and Limina hardware.
 
-For an overview of the SpectraStrobe format itself, please see our [SpectraStrobe Documentation](../09-SpectraStrobe/01-spectrastrobe-introduction.md).
+For an overview of the SpectraStrobe format itself, please see our [SpectraStrobe Documentation](../08-SpectraStrobe/01-spectrastrobe-introduction.md).
 
 When working with the Mindplace Kasina, the device must be properly configured first by following the steps outlined in the 
 [Kasina Documentation](08-kasina.md).

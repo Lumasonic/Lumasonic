@@ -19,7 +19,7 @@ There are various sections within the Editor that provide a configurable Wavefor
 
 The Waveform can be changed by clicking on the image and selecting a different source Waveform.
 
-![PrismEditorChangeWaveform image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_ChangeWaveform.png)
+![PrismEditorChangeWaveform image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_ChangeWaveform.png) 
 
 **Parameter Editing**
 
@@ -72,6 +72,7 @@ If you are working with Mindplace hardware (such as the Kasina), switch the enco
 * `Hue` The hue level value for the Waveform.
 * `Saturation` The saturation level value for the Waveform.
 * `Hue Cycle Freq` The frequency to cycle through the entire Hue range for the Waveform (this can be utilized for easy animation effects).
+* `Duty Cycle` The custom cutoff point for the Waveform (0% = fully off, 50% = half on/half off, 100% = fully on).
 * `Modulation Depth` Drives the modulation mix for the waveform (0% for no modulation / solid color, 100% for full modulation, driven by Frequency).
 * `Phase Offset` Offsets the starting point of the Waveform (this is reflected in the Waveform Preview).
 * `Stereo Phase` Drives the Left/Right stereo phase separation (0-360 degrees).
@@ -80,7 +81,7 @@ _**Note**: When configuring Prism for RGB light mixing within the Settings windo
 will be replaced with Red, Green, and Blue for color mixing. Prism will save these parameter values separately, so you can switch back and forth
 between modes and retain the last color set when you were working in a particular mode (see image below)._
 
-![PrismEditorLightRGB image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_Light_RGB.png)
+![PrismEditorLightRGB image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_Light_RGB.png) 
 
 * `Red` The **Red** level value for the Waveform.
 * `Green` The **Green** level value for the Waveform.
@@ -102,10 +103,11 @@ Isochronic uses an amplitude modulated pitch to create a rhythmic tone at the de
 For isochronic tones, the master `Frequency` parameter (from the Frequency tab) drives the beat, while all other aspects 
 of the tone are driven by the parameters below `Mode`.
 
-![PrismEditorSoundIsochronic image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_Sound_Isochronic.png)
+![PrismEditorSoundIsochronic image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_Sound_Isochronic.png) 
 
 * `Level` Drives the level of the tone output (in dB).
 * `Pitch` Drives the pitch for the source Pitch Waveform.
+* `Duty Cycle` The custom cutoff point for the Waveform (0% = fully off, 50% = half on/half off, 100% = fully on).
 * `Modulation Depth` Drives the modulation mix for the Modulation Waveform.
 * `Stereo Phase` Drives the Left/Right stereo phase separation (0-360 degrees).
 
@@ -132,25 +134,46 @@ The Vibration tab houses all editable Parameters related to the vibration channe
 
 * `Level` Drives the level of the tone output (in dB).
 * `Pitch` Drives the pitch for the source Pitch Waveform.
+* `Duty Cycle` The custom cutoff point for the Waveform (0% = fully off, 50% = half on/half off, 100% = fully on).
 * `Modulation Depth` Drives the modulation mix for the Modulation Waveform.
 * `Stereo Phase` Drives the Left/Right stereo phase separation (0-360 degrees).
+
+---
+
+### Light Reactive Parameters
+
+The Light Reactive section houses all editable Parameters for utilizing an Audio Input channel (whether sourced from the
+microphone or another waveform sample playing) to further modulate the light signals.
+
+A preview of the real-time input level (in dB) is displayed in the input monitor at the top left, and the **Peak** level
+lines can be reset by clicking anywhere in the preview area.
+
+![PrismEditorLightReactive image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_LightReactive.png)
+
+These parameters will need to be adjusted to taste for each incoming audio sample, and require experimentation to dial in your desired effect.
+
+_**Note**: Set the `Modulation Depth` in the `Light` tab to 0% if you want to purely use this Light Reactive effect without Frequency modulation. 
+Alternatively, dial back in the Modulation Depth to stack the effects._
+
+* `Reactive Depth` Depth of the audio reactive level mix (0% = no audio reactive modulation, 100% = full audio reactive modulation).
+* `Reactive Channels` Configures light modulation source channels (`Averaged Mono` or `Stereo`).
+* `Reactive Dynamics` Determines how the input audio signal drive thre reactive level (`Input Peak`, `Input RMS`, or `Input Sample`).
+* `Min. Input Level` Minimum input level that maps to 0% output.
+* `Max. Input Level` Maximum input level that maps to 100% output.
+* `Smooth Time` Reactivity level smooth time in milliseconds.
 
 ---
 
 ### Aux Input Parameters
 
 The Aux Input section houses all editable Parameters for utilizing an Audio Input channel (whether sourced from the
-microphone or another waveform sample playing) to further modulate the light and audio signals.
-
-![PrismEditorAudioInput image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_AuxInput.png)
+microphone or another waveform sample playing) to modulate the incoming audio signals.
 
 A preview of the real-time input level (in dB) is displayed in the input monitor at the top left, and the **Peak** level
 lines can be reset by clicking anywhere in the preview area.
 
-* `Light Gain` Gain multiplier applied to the aux. input, for the resulting output light signal.
-* `Light RMS` Amount of RMS averaging applied to the aux. input, for the resulting output light signal.
-* `Light Mod. Mode` Configures light modulation source channels (`Averaged Mono` or `Stereo`).
-* `Light Mod. Depth` Percentage mix the aux. input levels have on the resulting light modulation.
+![PrismEditorAudioInput image-center image-full image-margin-v-24](img/editor/Prism_Interface_Editor_AuxInput.png) 
+
 * `Audio Mod. Depth` Percentage mix the Frequency modulation has on the output audio.
 * `Audio Stereo Phase` Left/Right stereo phase separation (0-360 degrees) for the modulated audio source.
 * `Audio Output Gain` Gain multiplier applied to the resulting modulated audio output.

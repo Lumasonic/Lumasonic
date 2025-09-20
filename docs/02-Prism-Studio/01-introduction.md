@@ -7,7 +7,7 @@ Before using Prism Studio products, please read:
 If you need to troubleshoot issues using the plug-ins, we have the following guides available:
 
 * [Prism VST Troubleshooting](../03-Prism-VST/09-troubleshooting.md)
-* [SpectraStrobe Troubleshooting](../09-SpectraStrobe/06-troubleshooting.md)
+* [SpectraStrobe Troubleshooting](../08-SpectraStrobe/06-troubleshooting.md)
 
 ---
 

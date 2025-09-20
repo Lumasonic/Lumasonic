@@ -1,7 +1,7 @@
 ### About the Prism Plug-in
 
 Prism is design to make synchronized multi-sensory content (light/sound/vibration) easy and fun to create, for 
-playback in custom [Lumasonic](../08-Lumasonic/01-lumasonic-overview.md) hardware, or on existing MindPlace hardware such as the [Kasina](https://mindplace.com/collections/light-sound/products/kasina-deep-vision-bundle) and 
+playback in custom [Lumasonic](../07-Lumasonic/01-lumasonic-overview.md) hardware, or on existing MindPlace hardware such as the [Kasina](https://mindplace.com/collections/light-sound/products/kasina-deep-vision-bundle) and 
 [Limina](https://mindplace.com/products/mindplace-limina-deepvision-bundle). 
 
 Prism empowers users to explore the design space of this medium and easily compose multi-sensory journeys. We are building a community of multi-sensory artists for this blossoming ecosystem, and are eager to see this space grow and thrive!
@@ -68,12 +68,12 @@ There are eight major elements to the Prism interface, and switching between the
 
 ![PrismInterface image-center image-full image-margin-v-24](img/overview/Prism_Interface_Overview.png)
 
-1. `About Screen` Displays info about Prism and **Cymatic Somatics Inc**.
+1. `About Screen` Displays info about the Prism version.
 2. `Editor Screen` Houses all editable Parameters that can be modified within Prism. This is where you will spend most of your time.
 3. `Settings Screen` Provides access to all user-configurable settings for the plug-in.
-4. `License Screen` Displays the unique license details for your copy of Prism.
+4. `sACN Window` Displays the sACN window for configuring network-based external lighting.
 5. `High Framerate Preview` Opens a resizable high-framerate window for previewing the Prism output.
 6. `Visual Preview` Displays an animated preview of the glasses output.
 7. `Output Preview` Enables/disables plug-in output. _**Note**: This button will be disabled when Prism playback is being driven by the DAW's native transport controls._
 8. `Panic Button` Forcefully stops the current output and resets the Output Preview state.
-9. `Main Window` Displays the interface for the selected screen ([Editor](02-editor-screen.md) , [Settings](03-settings-screen.md) , [License](04-license-screen.md), or [About](05-about-screen.md). Please see the detailed documentation in their respective sections.
+9. `Main Window` Displays the interface for the selected screen ([Editor](02-editor-screen.md) , [Settings](03-settings-screen.md) , [License](04-sacn-module-overview.md), or [About](05-about-screen.md). Please see the detailed documentation in their respective sections.
