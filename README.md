@@ -19,7 +19,7 @@ for more information on how to install and use this software.
 
 This software is licensed under the [MIT license](./LICENSE).
 
-This repository will be updated over time with new binaries and the Lumasonic Decoder SDK.
+This repository will be updated over time with new binaries.
 
 ---
 
