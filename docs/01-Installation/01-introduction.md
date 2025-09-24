@@ -1,10 +1,41 @@
 ### Introduction
-If you have ever installed a Prism Studio product on Windows or macOS before, you will need to first go through the steps below
-to install and run Prism Cleaner.
-
 While previous Prism Studio versions relied on Prism Product Manager for plugin installation and license activation,
-there are now simple installers for the free plugins, with the installation steps outlined in the
-[Installing Plugins](02-installing-plugins.md) docs.
+there are now simple installers for the free plugins, with the installation steps outlined below.
+
+If you have ever installed a Prism Studio product on Windows or macOS before, you will need to first run the included 
+Prism Cleaner utility to clear out old installations that may conflict with this new release.
+
+---
+
+### Requirements
+The requirements for running all Prism Studio plug-ins are listed below. All plug-ins are in the VST3 format and
+must be run within a supporting DAW.
+
+#### Windows System Requirements
+* `Windows 10 64 bit`
+* `See your DAW's minimum system specs`
+
+#### macOS System Requirements
+* `macOS 64 bit (Intel or M1/M2)` version 10.15.7 or later
+* `See your DAW's minimum system specs`
+
+_**NOTE**: macOS native DAWs such as **Logic** often only support AudioUnit plug-ins natively, but you can use a VST3 wrapper product to
+utilize Prism Studio tools within them. Alternatively, we suggest continuing your music production in your macOS
+DAW of choice, and then utilizing **Reaper**, **Tracktion Waveform**, **Ableton Live**, or another VST3 supporting DAW to do
+a visuals pass on your bounced track using Prism Studio tools._
+
+---
+
+### Installation
+Please download the Prism Studio zip package for your operating system: [Windows](https://github.com/Lumasonic/Lumasonic/releases/download/prism-studio-v1.0.2/PrismStudio_win.zip)
+or [macOS](https://github.com/Lumasonic/Lumasonic/releases/download/prism-studio-v1.0.2/PrismStudio_macOS.zip).
+
+Unzip the package and first run `PrismCleanerSetup`. Then follow the instructions in the next section below to run the Prism Cleaner utility.
+
+Next, run `PrismStudioSetup` to install all Prism Studio plug-ins to the standard VST3 location for your OS (this will include `Prism`, `Prism Audio Bus`,
+`Prism Monitor`, and `Prism Reference`).
+
+Follow the instructions laid out in the [Prism Studio](../02-Prism-Studio/01-introduction.md) docs to finish the configuration in your DAW.
 
 ---
 
@@ -17,7 +48,7 @@ or [macOS](../../binaries/macOS/PrismCleanerSetup.pkg)
 
 ---
 
-### Getting Started
+#### Getting Started
 
 Start by closing any DAW that you may have open. This is required to clear out all existing Prism plug-ins.
 
@@ -40,7 +71,7 @@ Prism Cleaner will walk through the following prompts:
 This will ensure that ANY previous installations of Prism Product Manager, Lumasonic Media Server (and content), and
 any Prism Studio tools are completely cleared.
 
-### Windows
+#### Windows
 
 For Windows, find Prism Cleaner in the Start menu (either by searching by name or looking through `All apps`) and 
 run it.
@@ -51,7 +82,7 @@ The dialog will walk you through the process. Simply close the window if you wan
 
 ![PrismCleanerWinRun image-center image-full image-margin-v-24](img/Prism_Cleaner_win_2.png)
 
-### macOS
+#### macOS
 
 Open a Terminal window, type `sudo /Applications/PrismCleaner`, and hit Enter/Return to run Prism Cleaner. 
 Enter your password to begin the process, and you will be walked through the steps in the same fashion as the above
