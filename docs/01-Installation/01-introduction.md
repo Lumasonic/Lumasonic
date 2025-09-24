@@ -43,9 +43,6 @@ Follow the instructions laid out in the [Prism Studio](../02-Prism-Studio/01-int
 Prism Cleaner is a command line utility tool that clears out all files related to previous installations of
 Prism Studio and related products. This ensures a clean starting point for installing and using the latest plugins.
 
-Please download and run the Prism Cleaner installer for your operating system: [Windows](../../binaries/win/PrismCleanerSetup.exe) 
-or [macOS](../../binaries/macOS/PrismCleanerSetup.pkg)
-
 ---
 
 #### Getting Started
