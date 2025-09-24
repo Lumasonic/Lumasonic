@@ -10,7 +10,7 @@ audio signals. Prism Studio also supports encoding of [AudioStrobe](https://audi
 and [SpectraStrobe](docs/08-SpectraStrobe/01-spectrastrobe-introduction.md) for
 wider compatibility with existing hardware devices such as the [MindPlace Kasina](https://mindplace.com/).
 
-Prism Studio consists of cross-platform VST3 audio plug-ins and the (soon to be added)
+Prism Studio consists of cross-platform VST3 audio plug-ins and the
 Lumasonic Decoder SDK offers static binary libraries that can be used to implement
 custom decoding software for content encoded with Prism Studio and the Lumasonic codec.
 
