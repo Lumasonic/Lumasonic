@@ -30,6 +30,20 @@ continued development of the Lumasonic ecosystem, please consider [donating](htt
 
 ---
 
+## Downloads
+
+### Prism Studio VST3s
+
+* [Windows](https://github.com/Lumasonic/Lumasonic/releases/download/prism-studio-v1.0.2/PrismStudio_win.zip)
+* [macOS](https://github.com/Lumasonic/Lumasonic/releases/download/prism-studio-v1.0.2/PrismStudio_macOS.zip)
+* [Documentation](./docs/01-Installation/01-introduction.md)
+
+### Lumasonic Decoder SDK
+
+* [Windows (Intel), Linux (Intel, Arm)](https://github.com/Lumasonic/Lumasonic/releases/download/lumasonic-sdk-v1.0.2/LumasonicDecoderSDK_v1.0.2.zip)
+
+---
+
 ## A Message from Cymatic Somatics Inc.
 
 ### A Journey Concludes
