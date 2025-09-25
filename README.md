@@ -62,7 +62,7 @@ Like many ventures, our journey has been marked by both extraordinary breakthrou
 
 ### Looking Forward
 
-While this chapter of Cymatic Somatics is ending, our hope for the technology's future remains bright. We envision a world where multi-sensory healing tools continue to evolve and reach those who need them most. The foundational work we've accomplished—proving that synchronized light, sound, and vibration can create meaningful therapeutic experiences—will hopefully inspire others to carry this vision forward.
+While this chapter of Cymatic Somatics is ending, our hope for the technology's future remains bright. We envision a world where multi-sensory healing tools continue to evolve and reach those who need them most. The foundational work we've accomplished—proving that synchronized light, sound, and vibration can create meaningful therapeutic experiences—will hopefully inspire others to carry this vision forward alongside us.
 
 ### Our Gratitude
 
