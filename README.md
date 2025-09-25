@@ -26,7 +26,7 @@ This software is licensed under the [MIT license](./LICENSE).
 If you have already received value from our work, or you would like to support the
 continued development of the Lumasonic ecosystem, please consider donating!
 
-[<img alt="PayPal Donate Button" src="Donate.png">](https://www.paypal.com/donate/?business=GRU28YRJXKYRG&no_recurring=0&item_name=Thank+you+for+supporting+the+Lumasonic+project%21&currency_code=USD)
+[<img alt="PayPal Donate Button" src="DonateButton.png">](https://www.paypal.com/donate/?business=GRU28YRJXKYRG&no_recurring=0&item_name=Thank+you+for+supporting+the+Lumasonic+project%21&currency_code=USD)
 
 ---
 
