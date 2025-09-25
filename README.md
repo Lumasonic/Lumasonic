@@ -68,7 +68,7 @@ While this chapter of Cymatic Somatics is ending, our hope for the technology's 
 
 To everyone who believed in our mission, tested our tools, provided feedback, and shared our excitement for this emerging field: thank you. Your support and enthusiasm made this journey meaningful beyond measure. You helped us prove that taking healing into our own hands is not just possible, but transformative.
 
-We remain grateful for the opportunity to have explored this remarkable intersection of technology and healing alongside all of you.
+We remain grateful for the opportunity to explore this remarkable intersection of technology and healing alongside all of you.
 
 _With deep appreciation,<br />
 Michael and Josiah<br />
