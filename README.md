@@ -28,6 +28,15 @@ continued development of the Lumasonic ecosystem, please consider [donating](htt
 
 [<img alt="PayPal Donate Button" src="DonateButton.png">](https://www.paypal.com/donate/?business=GRU28YRJXKYRG&no_recurring=0&item_name=Thank+you+for+supporting+the+Lumasonic+project%21&currency_code=USD)
 
+Donating helps us to continue to transition this massive body of work to an open source format. 
+
+Our efforts to prepare and document the entire code base for a source code release require
+ongoing time and effort, and your donation can help accelerate the process.
+
+With enough of your support, we can also look towards releasing our hardware reference designs
+for external LED lighting or our portable low-cost decoder, allowing anyone to implement
+a complete Lumasonic or AudioStrobe playback system.
+
 ---
 
 ## Downloads
