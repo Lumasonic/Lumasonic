@@ -1,4 +1,4 @@
-# Lumasonic
+![Lumasonic Logo](Lumasonic_Logo.png)
 
 This repository holds the legacy documentation and binary releases of Prism Studio and the 
 Lumasonic Decoder SDK from Cymatic Somatics Inc. Although the company has ceased
