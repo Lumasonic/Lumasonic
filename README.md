@@ -36,7 +36,7 @@ ongoing time and effort, and your donation can help accelerate the process.
 ![Lumasonic Lighting Controller MK1](LumasonicMK1.png)
 
 With enough of your support, we can also look towards releasing our hardware reference designs
-for external LED lighting controller or our portable low-cost decoder, allowing anyone to implement
+for the external LED lighting controller or the portable low-cost hardware decoder, allowing anyone to implement
 a complete Lumasonic and AudioStrobe playback system.
 
 ## Downloads
