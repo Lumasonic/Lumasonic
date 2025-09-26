@@ -39,8 +39,6 @@ With enough of your support, we can also look towards releasing our hardware ref
 for external LED lighting or our portable low-cost decoder, allowing anyone to implement
 a complete Lumasonic or AudioStrobe playback system.
 
----
-
 ## Downloads
 
 ### Prism Studio VST3s
