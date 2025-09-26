@@ -37,7 +37,7 @@ ongoing time and effort, and your donation can help accelerate the process.
 
 With enough of your support, we can also look towards releasing our hardware reference designs
 for external LED lighting controller or our portable low-cost decoder, allowing anyone to implement
-a complete Lumasonic or AudioStrobe playback system.
+a complete Lumasonic and AudioStrobe playback system.
 
 ## Downloads
 
