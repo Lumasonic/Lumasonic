@@ -33,6 +33,8 @@ Donating helps us to continue to transition this massive body of work to an open
 Our efforts to prepare and document the entire code base for a source code release require
 ongoing time and effort, and your donation can help accelerate the process.
 
+![Lumasonic Lighting Controller MK1](LumasonicMK1.png)
+
 With enough of your support, we can also look towards releasing our hardware reference designs
 for external LED lighting or our portable low-cost decoder, allowing anyone to implement
 a complete Lumasonic or AudioStrobe playback system.
@@ -46,6 +48,8 @@ a complete Lumasonic or AudioStrobe playback system.
 * [Windows](https://github.com/Lumasonic/Lumasonic/releases/download/prism-studio-v1.0.2/PrismStudio_win.zip)
 * [macOS](https://github.com/Lumasonic/Lumasonic/releases/download/prism-studio-v1.0.2/PrismStudio_macOS.zip)
 * [Documentation](./docs/01-Installation/01-introduction.md)
+
+![Prism VST3 Screenshot](PrismVst3.png)
 
 ### Lumasonic Decoder SDK
 
