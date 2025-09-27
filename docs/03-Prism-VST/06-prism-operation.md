@@ -19,3 +19,7 @@ All exposed Prism VST Automation Parameters can of course be controlled live via
 following example, the MIDI CC `PitchBend` is mapped to `Light Mod. Depth` within Ableton Live:
 
 ![PrismOperation_MIDICC image-center image-full image-margin-v-24](img/daw/Windows_Ableton_MIDICC.png)
+
+---
+
+**[NEXT: Rendering Output](../03-Prism-VST/07-rendering-output.md)**

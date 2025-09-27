@@ -89,4 +89,6 @@ At any point you can exit the process by pressing `Ctrl+C` on your keyboard
 
 ![PrismCleanerMac image-center image-full image-margin-v-24](img/Prism_Cleaner_macOS_1.png)
 
+---
 
+**[NEXT: Prism Studio Introduction](../02-Prism-Studio/01-introduction.md)**

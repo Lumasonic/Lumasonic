@@ -45,3 +45,7 @@ At a minimum, it is ideally placed on the Master track in your DAW. This will pr
 
 _**Note:** For Prism Monitor to work properly, be sure to keep Mode parity between Prism VST (or your pre-rendered audio files) and Prism Monitor._
 
+---
+
+**[NEXT: Prism Reference](../06-Prism-Reference/01-prism-reference-overview.md)**
+

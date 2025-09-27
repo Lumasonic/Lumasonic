@@ -44,3 +44,7 @@ output buses to their own audio/mixer track for fine-grained mixing control.
 
 * `Reset to Factory Defaults` Resets all settings of this plug-in instance to their Factory Default values.
 * `Save System Log File` Outputs a log file that can be saved and shared with Cymatic Somatics Support.
+
+---
+
+**[NEXT: sACN Module Overview](../03-Prism-VST/04-sacn-module-overview.md)**

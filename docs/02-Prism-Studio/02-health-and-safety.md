@@ -15,3 +15,7 @@ Some creative sessions may cause you to lose track of time, but don't forget to 
 every hour or so. Get up, move, stretch, and give your eyes a rest before returning to the computer.
 Sitting for long periods, as well as repetitive motions can cause bodily discomfort or injury.
 So, be nice to yourself out there!
+
+---
+
+**[NEXT: DAW Configuration](03-daw-configuration.md)**

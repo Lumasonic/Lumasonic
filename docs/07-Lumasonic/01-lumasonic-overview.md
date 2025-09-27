@@ -70,3 +70,7 @@ Combine the Lumasonic Media Server with a vibroacoustic solution such as the [Cr
 daybed or bass tiles for a truly transportive experience.
 
 ![LumasonicMediaServer image-center image-full image-margin-v-24](img/LumasonicMediaServer_1.jpg)
+
+---
+
+**[NEXT: SpectraStrobe](../08-SpectraStrobe/01-spectrastrobe-introduction.md)**

@@ -97,3 +97,7 @@ ___
 
 * The **(10) LED Glasses Output** should be connected to the **LED Glasses** via their attached 3.5 mm TRRS cable.
   ![Kasina Outputs image-center image-height-380 image-margin-v-16 image-radius-24](img/kasina/Kasina-Outputs.jpg)
+
+---
+
+**[NEXT: Prism Troubleshooting](../03-Prism-VST/09-troubleshooting.md)**

@@ -177,3 +177,7 @@ lines can be reset by clicking anywhere in the preview area.
 * `Audio Mod. Depth` Percentage mix the Frequency modulation has on the output audio.
 * `Audio Stereo Phase` Left/Right stereo phase separation (0-360 degrees) for the modulated audio source.
 * `Audio Output Gain` Gain multiplier applied to the resulting modulated audio output.
+
+---
+
+**[NEXT: Settings Screen](../03-Prism-VST/03-settings-screen.md)**

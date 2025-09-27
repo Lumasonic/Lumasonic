@@ -77,3 +77,7 @@ There are eight major elements to the Prism interface, and switching between the
 7. `Output Preview` Enables/disables plug-in output. _**Note**: This button will be disabled when Prism playback is being driven by the DAW's native transport controls._
 8. `Panic Button` Forcefully stops the current output and resets the Output Preview state.
 9. `Main Window` Displays the interface for the selected screen ([Editor](02-editor-screen.md) , [Settings](03-settings-screen.md) , [License](04-sacn-module-overview.md), or [About](05-about-screen.md). Please see the detailed documentation in their respective sections.
+
+---
+
+**[NEXT: Editor Screen](../03-Prism-VST/02-editor-screen.md)**

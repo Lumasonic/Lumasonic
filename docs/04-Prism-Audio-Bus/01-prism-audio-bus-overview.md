@@ -52,3 +52,7 @@ the `audible-audio mix track` to the mix's master track/output. Using a single
 plug-in instance is more CPU efficient and requires less track management.
 
 _**Note:** Refer to the user manual of your DAW for how to route audio signals between tracks, because it is DAW-specific functionality._
+
+---
+
+**[NEXT: Prism Monitor](../05-Prism-Monitor/01-prism-monitor-overview.md)**

@@ -104,3 +104,7 @@ taking into account the pixel strips being utilized (in particular 8-bit vs 16-b
 
 * `Network Update Timing` Displays the network thread timing for monitoring/debugging purposes.
 * `sACN Output Timing` Displays the sACN output timing for monitoring/debugging purposes.
+
+---
+
+**[NEXT: About Screen](../03-Prism-VST/05-about-screen.md)**

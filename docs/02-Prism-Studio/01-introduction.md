@@ -28,3 +28,7 @@ To configure the plug-ins for your DAW, please see the [DAW Configuration Docs](
 To learn the basics of Prism VST, it's interface, and operation, you can visit the [Prism VST Overview](../03-Prism-VST/01-prism-plugin-overview.md) section.
 
 Mixing considerations for your project, and rendering the final output to file is covered in the [Rendering & Output](../03-Prism-VST/07-rendering-output.md) section.
+
+---
+
+**[NEXT: Health and Safety](02-health-and-safety.md)**

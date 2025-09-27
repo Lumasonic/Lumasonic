@@ -130,3 +130,7 @@ audio EQ software, which is often loaded by default on gaming computers._
 output in your Kasina glasses. _**Note**: Sometimes the `AUDIO IN` mode doesn't initiate properly on the first attempt of 
 selecting it within the Kasina interface. If this happens, simply click **LEFT** on the **Navigation Wheel** to exit the 
 mode, and then re-select it._
+
+---
+
+**[NEXT: Kasina](../03-Prism-VST/08-kasina.md)**

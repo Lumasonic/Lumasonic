@@ -84,3 +84,7 @@ _**Note**: VST3 plug-ins are supported in **Waveform 10** and above..._
 5. Click the `Scanning for Plugins...` button and select `Scan for new or updated VST3 plugins`.
 
 ![WaveformPreferencesMac2 image-center image-height-380 image-margin-v-24](img/daw/macOS_Waveform_Preferences_2.png)
+
+---
+
+**[NEXT: Prism Plugin Overview](../03-Prism-VST/01-prism-plugin-overview.md)**

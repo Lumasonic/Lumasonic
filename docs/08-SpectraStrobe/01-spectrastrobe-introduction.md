@@ -31,4 +31,6 @@ typically play back on AudioStrobe decoding devices, with varying results.
 
 ***AudioStrobe® is developed by Audiostrobe Ltd.***
 
+---
 
+**[RETURN TO DOCUMENTATION HOME PAGE](../README.md)**

@@ -27,3 +27,7 @@ This plug-in enables an alternate workflow, where Prism Reference can be applied
 disable their Reference Tone generation. This avoids the situation where one must hunt down WHICH instance of Prism is producing the tone.
 
 This plug-in is simply provided as a workflow convenience, and is not necessary if Prism is used to create the Reference Tone.
+
+---
+
+**[NEXT: Lumasonic](../07-Lumasonic/01-lumasonic-overview.md)**
