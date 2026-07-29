@@ -57,19 +57,11 @@ a complete Lumasonic and AudioStrobe playback system.
 
 ## A Message from Cymatic Somatics Inc.
 
-### A Journey Concludes
-
-After five incredible years of pushing the boundaries of multi-sensory experiences, we have made the difficult decision to wind down Cymatic Somatics.
-
 ### Reflecting on Our Impact
 
 What began as a personal journey toward healing through the intersection of art and technology evolved into something much larger. Together, we created tools that enabled countless individuals and businesses to craft therapeutic experiences combining light, sound, and vibration. Our Prism Studio and Lumasonic Engine touched lives across the wellness community, from brainwave entrainment practitioners to those seeking new pathways to healing and connection.
 
 We're deeply proud of the technology we built and the community we fostered. The multi-sensory artists, practitioners, and innovators who embraced our vision helped prove that synchronized experiences across the senses can create profound therapeutic responses and open entirely new creative possibilities.
-
-### The Road Here
-
-Like many ventures, our journey has been marked by both extraordinary breakthroughs and significant challenges. The pandemic and subsequent supply chain difficulties tested our resilience, while the evolving market landscape presented obstacles we ultimately could not overcome. Despite encouraging signals from potential partners and the continued passion of our community, the financial realities led us to this crossroads.
 
 ### Looking Forward
 
